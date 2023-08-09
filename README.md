@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JavaScript, SASS, Algorithms, or Video Games**
   
-- 📊 Check out my sorting algorithm visualizer [visualizer](https://sortingvisualizer.com)
+- 📊 Check out my [sorting algorithm visualizer](https://sortingvisualizer.com)
 
 - 📫 Reach me at **atorcode@gmail.com**
 

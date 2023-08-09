@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atorcode&label=Profile%20views&color=0e75b6&style=flat" alt="atorcode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atorcode" alt="atorcode" /></a> </p>
-
 - 👨‍💻 Some of my recent projects are available in my [portfolio](https://atorcode.com)
 
 - 💬 Ask me about **React, JavaScript, SASS, Algorithms, or Video Games**

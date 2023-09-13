@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atorcode&show_icons=true&locale=en&layout=compact" alt="atorcode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atorcode&show_icons=true&locale=en" alt="atorcode" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atorcode&" alt="atorcode" /></p>

@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **atorcode@gmail.com**
 
-- 📄 Read about my experiences on my [resume](https://drive.google.com/file/d/1ZUCYq9eOPNlWIcj4H0Ep66J_Qx_By5Ul/view)
+- 📄 Read about my experiences on my [resume](https://drive.google.com/file/d/1n4LM6O4bZrOhNfnFmSS04RV5RlbJlilm/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

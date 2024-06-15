@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Alberto Torrigiotti. Call me Albo!</h1>
-<h3 align="center">I'm a passionate web developer based in Seattle</h3>
+<h3 align="center">I'm a software engineer based in Seattle</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atorcode&label=Profile%20views&color=0e75b6&style=flat" alt="atorcode" /> </p>
 
 - 👨‍💻 Some of my recent projects are available in my [portfolio](https://atorcode.com)
 
-- 💬 Ask me about **React, JavaScript, SASS, Algorithms, or Video Games**
+- 💬 Ask me about **React, TypeScript, Python, and video games**
   
 - 📊 Check out my [sorting algorithm visualizer](https://sortingvisualizer.com)
 
